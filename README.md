@@ -28,6 +28,8 @@ To use the app, simply paste the URL of the article you want to summarize into t
 # Credits
 This app was built using the following technologies:
 
+`Vite` - A fast and lightweight build tool that leverages ES modules to provide near-instant build times.
+
 `RapidAPI` - A platform that allows developers to discover, use, and manage APIs.
 
 `Tailwind CSS` - A utility-first CSS framework for rapidly building custom user interfaces.
